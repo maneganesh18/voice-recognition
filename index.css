@@ -1,0 +1,42 @@
+body {
+  background-image: url(./img/1__0KKjODR-4kzRB-usf_YMg.png);
+}
+.heading {
+  color: white;
+  position: absolute;
+  top: 10%;
+  left: 42%;
+  width: auto;
+  height: auto;
+  font-family: Bebas Neue;
+}
+.talk {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 45%;
+  width: 200px;
+  height: 200px;
+  padding: 10px 16px;
+  border-radius: 100px;
+  border-color: #1cbfff;
+  background-color: #070e1b;
+  color: white;
+  font-size: 24px;
+  text-transform: uppercase;
+  line-height: 1.33;
+  letter-spacing: 4px;
+}
+
+.content {
+  color: white;
+  position: absolute;
+  top: 85%;
+  left: 27%;
+  width: auto;
+  height: 200px;
+  padding: 10px 16px;
+  font-weight: 100px;
+  font-size: 50px;
+  text-transform: uppercase;
+}
